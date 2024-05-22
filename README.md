@@ -2,6 +2,10 @@
 
 PathPilot is a custom GPT, designed as a suggestion tool, guiding **SMEs**, **Instructional Designers** or **educational content creators,** through the process of crafting detailed, engaging, and effective educational text-based content.  
 
+<div align="center">
+  <img src="assets/pathpilot_logo.png" alt="pathpilot_logo">
+</div>
+
 ---
 
 ## 💬 Feedback
@@ -41,7 +45,9 @@ We value your feedback! If you are enjoying PathPilot, please leave a review. Fo
 
 Click `🌟 Start Creating Content` to begin
 
-![start_creating_content-05.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/91d228a4-b1da-4255-b563-c3f25cb0b350/53ffbc36-8a6e-4549-a202-81f816c25339/start_creating_content-05.jpg)
+<div align="center">
+  <img src="assets/start_creating_content.jpg" alt="start_creating_content">
+</div>
 
 ### **Step 2: Content Form**
 
@@ -52,19 +58,26 @@ PathPilot will request that you fill out the `content form`. This step is import
 - Target Demographic (e.g., 15-17 years old students)
 - Learning Objectives (e.g., Understand the causes and effects of the Industrial Revolution)
 
-![content_form-06-06.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/91d228a4-b1da-4255-b563-c3f25cb0b350/66b6184f-3f7b-43ca-b37c-1c99052c4586/content_form-06-06.jpg)
+<div align="center">
+  <img src="assets/content_form.jpg" alt="content_form">
+</div>
 
 ### **Step 3: Transformation**
 
 Once the user has given back the content form, PathPilot will provide a number of pathways (Q,W,E,R) to begin. Generally the "Q" pathway will start with a basic introduction so its generally  best to start with. 
 
-![content_form-06-07.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/91d228a4-b1da-4255-b563-c3f25cb0b350/539c19f7-9d7e-4ba0-acf8-a288506b8197/content_form-06-07.jpg)
+<div align="center">
+  <img src="assets/subject_expert_mode.jpg" alt="subject_expert_mode">
+</div>
+
 
 ### **Step 4: Section Generation**
 
 Content will be generated according to the pathway selected, providing direct content to be incorporated into your lesson. Descriptions for multimedia and noteable keywords will be provided for potential hyperlinking or annotation needs.  
 
-![section_generated-08.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/91d228a4-b1da-4255-b563-c3f25cb0b350/07e2f82f-fbd2-4520-8ff7-9bd36d872c76/section_generated-08.jpg)
+<div align="center">
+  <img src="assets/section_generated.jpg" alt="section_generated">
+</div>
 
 ---
 
@@ -72,7 +85,9 @@ Content will be generated according to the pathway selected, providing direct co
 
 Using our Industrial Revolution example, after transformation, content generation and path options start at the introductory stage.
 
-![path_selection-09.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/91d228a4-b1da-4255-b563-c3f25cb0b350/61a1d94d-524d-43a4-b9fb-b964bb70f557/path_selection-09.jpg)
+<div align="center">
+  <img src="assets/path_selection.jpg" alt="path_selection">
+</div>
 
 To choose a direction, simply type the letter of your choice (Q, W, E, or R) 
 
@@ -84,7 +99,9 @@ To choose a direction, simply type the letter of your choice (Q, W, E, or R)
 
 After the selected path has been generated a new path will be generated to replace the old one. 
 
-![updated_pathway-10.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/91d228a4-b1da-4255-b563-c3f25cb0b350/27eaa8a1-eabd-4c59-8ab8-57e9fb0a05d8/updated_pathway-10.jpg)
+<div align="center">
+  <img src="assets/updated_pathway.jpg" alt="updated_pathway">
+</div>
 
 ---
 
@@ -110,7 +127,9 @@ To move to the next stage, instead of responding with a pathway selection (Q, W,
 
 The user will cycle through pathways and stages until the final stage is reached (Stage 5: Conclusion).
 
-![next_stage-11.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/91d228a4-b1da-4255-b563-c3f25cb0b350/4e377439-55bc-4bdb-8171-187d50fcad9d/next_stage-11.jpg)
+<div align="center">
+  <img src="assets/next_section.jpg" alt="next_section">
+</div>
 
 ---
 
