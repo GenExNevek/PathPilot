@@ -6,6 +6,10 @@ PathPilot is a custom GPT, designed as a suggestion tool, guiding **SMEs**, **In
   <img src="assets/pathpilot_logo.png" alt="pathpilot_logo">
 </div>
 
+## 🎮 Try PathPilot
+
+If you have ChatGPT+, you can try out PathPilot [here](https://chatgpt.com/g/g-hnIPy5e0Z-pathpilot).
+
 ---
 
 ## 💬 Feedback
