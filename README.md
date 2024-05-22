@@ -101,7 +101,7 @@ To choose a direction, simply type the letter of your choice (Q, W, E, or R)
 | --- | --- |
 | 🤖 Pathpilot  | Generates content for the Q path: Overview of the Industrial Revolution and updates the options. |
 
-After the selected path has been generated a new path will be generated to replace the old one. 
+After the selected paths content has been generated a new path will be generated to replace the old one. 
 
 <div align="center">
   <img src="assets/updated_pathway.jpg" alt="updated_pathway">
