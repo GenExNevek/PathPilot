@@ -132,7 +132,7 @@ To move to the next stage, instead of responding with a pathway selection (Q, W,
 The user will cycle through pathways and stages until the final stage is reached (Stage 5: Conclusion).
 
 <div align="center">
-  <img src="assets/next_section.jpg" alt="next_section">
+  <img src="assets/next_stage.jpg" alt="next_stage">
 </div>
 
 ---
